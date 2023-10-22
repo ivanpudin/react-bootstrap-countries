@@ -1,5 +1,7 @@
 # Countries app made with react bootstrap and redux
 
+[Website](https://react-bootstrap-countries.netlify.app/)
+
 # Technologies used
 - React
 - React-Bootstrap
@@ -16,9 +18,10 @@ Clone repository
 
 Create .env file in root directory and provide following keys:
 
-OpenWeather
+OpenWeather:
 - REACT_APP_OPENWEATHER_KEY
-Firebase
+
+Firebase:
 - REACT_APP_FIREBASE_API_KEY
 - REACT_APP_AUTHDOMAIN
 - REACT_APP_PROJECT_ID
